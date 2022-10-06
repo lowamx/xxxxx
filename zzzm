@@ -1,0 +1,6 @@
+import os
+
+os.system("clear")
+print("data bhi ura skta tha main par ma kesa ka")
+print("noksan ni krta ref Aahil :) ")
+exit()
